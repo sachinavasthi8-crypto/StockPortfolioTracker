@@ -1,7 +1,9 @@
 📈 Stock Portfolio Tracker — Python
 
-A simple stock portfolio tracker built with Python as part of my CodeAlpha Python Programming Internship.
+A simple stock portfolio tracker built with Python.
+
 📌 About the Project
+
 This project allows users to track their stock investments.
 The user enters stock names and quantities, and the program automatically
 calculates the total investment value using hardcoded stock prices.
@@ -38,4 +40,4 @@ datetime module
 
 👨‍💻 Author
 
-Made with ❤️ during CodeAlpha Python Internship
+Made with ❤️ by SACHIN AVASTHI
